@@ -1,0 +1,15 @@
+[ 2023-07-12 14:16:54,421 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-07-12 14:17:10,327 ] 187 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+[ 2023-07-12 14:17:10,327 ] 187 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-07-12 14:17:12,546 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 14:17:12] "GET / HTTP/1.1" 200 -
+[ 2023-07-12 14:17:13,094 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 14:17:13] "GET /static/style/wallpaperflare-cropped.jpg HTTP/1.1" 200 -
+[ 2023-07-12 14:17:13,301 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 14:17:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-07-12 14:17:16,103 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 14:17:16] "GET / HTTP/1.1" 200 -
+[ 2023-07-12 14:17:16,229 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 14:17:16] "[36mGET /static/style/wallpaperflare-cropped.jpg HTTP/1.1[0m" 304 -
+[ 2023-07-12 14:17:17,078 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 14:17:17] "GET / HTTP/1.1" 200 -
+[ 2023-07-12 14:17:17,231 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 14:17:17] "[36mGET /static/style/wallpaperflare-cropped.jpg HTTP/1.1[0m" 304 -
+[ 2023-07-12 14:17:24,243 ] 58 root - INFO - Dataframe Gathered
+[ 2023-07-12 14:17:28,152 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 14:17:28] "POST / HTTP/1.1" 200 -
